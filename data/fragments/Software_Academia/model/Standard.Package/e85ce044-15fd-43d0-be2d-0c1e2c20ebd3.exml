@@ -21,6 +21,7 @@
         <COMPID name="Subir notas" mc="Standard.UseCase" uid="0891b7cf-fa4a-418f-b276-a718e2971a4c"/>
         <COMPID name="CRUD secciones" mc="Standard.UseCase" uid="8eb9f5de-3fb1-4e7d-9fcd-869a40d5d0e6"/>
         <COMPID name="CRUD perfiles" mc="Standard.UseCase" uid="39e95f4e-86c6-4ff8-bba6-1f0897568aca"/>
+        <COMPID name="prueba" mc="Standard.UseCase" uid="def20408-ff49-4069-94c8-011bb6e97c20"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Casos de uso" mc="Standard.UseCaseDiagram" uid="620193d1-7178-4ec7-a1e7-0bfe2546a534"/>
