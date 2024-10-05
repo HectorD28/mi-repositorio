@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo de dominio " version="4">
+  <OBJECT>
+    <ID name="Modelo de dominio " mc="Standard.ClassDiagram" uid="d05f8f3c-39ee-442a-a0b1-1f283e6a95e2"/>
+    <PID name="Modelo de dominio" mc="Standard.Package" uid="abf3fd97-ce0a-4608-9a1b-6bd0ed870524"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">5</ATT>
+      <ATT name="UiData"><![CDATA[eJztVd9P2zAQ/lesvNf9yQRSKIIEVRWBonabtCd0ia+ZwbEr24Xmv5/dpIxma5dJaLzsKfbZ9913d9854cWmEOQZteFKngd92gvIxTicpY+YWcKZMwXElis8D5TOaaEYCq7ouhDUWLD8iXHINRQUGbdKUxRYoLSmOs12p5Nisd3H1T4gBTwq/fAatxeMw3utVqhtSSQULpyAUq1tDBbc2VcQa6x5yLUQQXccdncOv7gubCkw2Mti8LssduyMv29opjTSyrcFvwhMBgzZLtj1xs5x2TLKnYOoPQlubJxOHcft0i8ilYKwjRy7VTbH8tYowCJzNBolu/Um8uwtvjogGWhGIwHG1B0hrHeyPF0Os87wDLEzGg2gA7203+kvB6dD/ARnJzg4XnWHZm+kepEJpCgaDBZWc5kH41tfFEUYEqYKLrkiYXd772heSuBURqpYKcOta8gB8BZQ0XcumEaPkHDjq1l/DnokXD6Z9tev8ljDi6OTQIl6X4TDYyJ8nRxW+RsqPIIbnT3AfzM5f+f1sbrj7IAc4glNLr9dzx+uLqObyXz25S5+H4W0GMW3PfupnjdaGP3Xwodo4fPs/r1F8KcnofHzo3W/Gkyn0mLum1qXqH/g/f8B58Ku5g==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Modelo de dominio ]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="2d23800f-84f6-42cb-a0e7-480717c1c0ad"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

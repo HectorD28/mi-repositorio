@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Software_Academia" version="4">
+  <OBJECT>
+    <ID name="Software_Academia" mc="Standard.Project" uid="051ca8f6-4ba4-4e8d-a55c-5f5c1c517d19"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Software_Academia]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="software_academia" mc="Standard.Package" uid="303e1fc8-7f0c-4caa-b0d0-bec0666463e4"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Software_Academia" mc="Infrastructure.DiagramSet" uid="134bf1ec-21dd-423e-8495-136e1880d35c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Actores" version="4">
+  <OBJECT>
+    <ID name="Actores" mc="Standard.Package" uid="7cd81b93-0679-431c-be8f-d07248afbc7b"/>
+    <PID name="Vista de casos de uso" mc="Standard.Package" uid="3bcf3f76-841c-47fc-9838-2751f6adde03"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Actores]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Estudiante" mc="Standard.Actor" uid="26b041ce-15b1-4e67-932e-31b48211ebdb"/>
+        <COMPID name="Administrador" mc="Standard.Actor" uid="06191495-7de7-405f-9d15-316f3dc59afa"/>
+        <COMPID name="Profesor" mc="Standard.Actor" uid="626967b0-8454-4914-bfd2-5096e5f9ded0"/>
+        <COMPID name="Coordinador" mc="Standard.Actor" uid="f34b9b5d-ffc2-4284-8d07-ce099ef98aa7"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Actores" mc="Standard.UseCaseDiagram" uid="60a5c388-4c7d-4936-84db-575156546c91"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

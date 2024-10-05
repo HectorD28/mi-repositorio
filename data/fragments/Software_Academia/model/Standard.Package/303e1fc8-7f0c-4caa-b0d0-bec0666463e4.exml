@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="software_academia" version="4">
+  <OBJECT>
+    <ID name="software_academia" mc="Standard.Package" uid="303e1fc8-7f0c-4caa-b0d0-bec0666463e4"/>
+    <PID name="Software_Academia" mc="Standard.Project" uid="051ca8f6-4ba4-4e8d-a55c-5f5c1c517d19"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[software_academia]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Vista de casos de uso" mc="Standard.Package" uid="3bcf3f76-841c-47fc-9838-2751f6adde03"/>
+        <COMPID name="Vista lógica" mc="Standard.Package" uid="b27f6ff7-6156-4d0d-8ec2-66ae08dc6edf"/>
+        <COMPID name="Vista de despliegue" mc="Standard.Package" uid="f1709569-87fb-4f2f-b771-0c85b67a5a58"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

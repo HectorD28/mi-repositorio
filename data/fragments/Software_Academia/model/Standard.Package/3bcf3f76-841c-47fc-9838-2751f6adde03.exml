@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Vista de casos de uso" version="4">
+  <OBJECT>
+    <ID name="Vista de casos de uso" mc="Standard.Package" uid="3bcf3f76-841c-47fc-9838-2751f6adde03"/>
+    <PID name="software_academia" mc="Standard.Package" uid="303e1fc8-7f0c-4caa-b0d0-bec0666463e4"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Vista de casos de uso]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Casos de uso" mc="Standard.Package" uid="e85ce044-15fd-43d0-be2d-0c1e2c20ebd3"/>
+        <COMPID name="Actores" mc="Standard.Package" uid="7cd81b93-0679-431c-be8f-d07248afbc7b"/>
+        <COMPID name="Modelo de dominio" mc="Standard.Package" uid="abf3fd97-ce0a-4608-9a1b-6bd0ed870524"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de casos de uso" mc="Standard.UseCaseDiagram" uid="c7c86c7e-f0d3-40c2-a22e-e341e3f77d3f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo de análisis" version="4">
+  <OBJECT>
+    <ID name="Modelo de análisis" mc="Standard.Package" uid="51d5620a-ef04-4bcd-a798-7d4b63e3488d"/>
+    <PID name="Vista lógica" mc="Standard.Package" uid="b27f6ff7-6156-4d0d-8ec2-66ae08dc6edf"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelo de análisis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
