@@ -13,10 +13,6 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
-      <COMP relation="OwnedElement">
-        <COMPID name="Component" mc="Standard.Component" uid="f6803012-4cea-4c73-82e8-df7621c00424"/>
-        <COMPID name="Component1" mc="Standard.Component" uid="7ce54491-2313-4343-b0e8-9ab5a4eb6d85"/>
-      </COMP>
       <COMP relation="Product">
         <COMPID name="Vista implementación Class diagram" mc="Standard.ClassDiagram" uid="7a5b457c-23a0-44ca-bbd3-56bddd9b0336"/>
       </COMP>
