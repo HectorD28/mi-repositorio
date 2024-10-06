@@ -1,2 +1,3 @@
 # Ignorar archivos generados automaticamente por Modelio
-.runtime 
+.runtime
+data/fragments/Software_Academia/admin/stamp.dat 
