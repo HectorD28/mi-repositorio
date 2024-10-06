@@ -17,6 +17,8 @@
         <COMPID name="Component" mc="Standard.Component" uid="f55c2d06-eba9-4a12-9e5e-ec68a4877ffa"/>
         <COMPID name="Component1" mc="Standard.Component" uid="0f7f8ffd-7b52-4234-a12c-d4388f01c3e4"/>
         <COMPID name="Component2" mc="Standard.Component" uid="876d9625-e385-4ad6-b475-78d70f4cf0e1"/>
+        <COMPID name="Component3" mc="Standard.Component" uid="aab6c41d-5651-4650-be62-8b76f53f4a80"/>
+        <COMPID name="Component4" mc="Standard.Component" uid="70835d53-297f-4055-8635-2d22e626e7e1"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Vista implementación Class diagram" mc="Standard.ClassDiagram" uid="7a5b457c-23a0-44ca-bbd3-56bddd9b0336"/>
