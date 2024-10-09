@@ -12,14 +12,6 @@
       <ATT name="Name"><![CDATA[Vista de despliegue]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES>
-      <COMP relation="OwnedElement">
-        <COMPID name="Component4" mc="Standard.Component" uid="70835d53-297f-4055-8635-2d22e626e7e1"/>
-        <COMPID name="Component" mc="Standard.Component" uid="c9f23810-b721-47cb-a2dc-6ab9e9ceeefc"/>
-      </COMP>
-      <COMP relation="Product">
-        <COMPID name="Vista implementación Class diagram" mc="Standard.ClassDiagram" uid="7a5b457c-23a0-44ca-bbd3-56bddd9b0336"/>
-      </COMP>
-    </DEPENDENCIES>
+    <DEPENDENCIES></DEPENDENCIES>
   </OBJECT>
 </EXT>
