@@ -17,8 +17,13 @@
         <COMPID name="Interaction" mc="Standard.Interaction" uid="8006e07a-df89-4e5d-8b0d-e6d298241a7f"/>
       </COMP>
       <COMP relation="OwnedElement">
-        <COMPID name="Use Case" mc="Standard.UseCase" uid="a31b4d1d-8c4b-4c15-b6b0-06fc5d0495a4"/>
         <COMPID name="Subir material" mc="Standard.UseCase" uid="9e9eda44-1ccc-4829-8969-1c7d0257e726"/>
+        <COMPID name="Descargar material" mc="Standard.UseCase" uid="a7c83cbc-4f8c-4362-b174-780bcda698cf"/>
+        <COMPID name="Consultar información" mc="Standard.UseCase" uid="16b34402-682c-4489-97f2-e0d5c7f0f1d8"/>
+        <COMPID name="Subir asistencia" mc="Standard.UseCase" uid="6a87237b-b3fa-4472-bdc8-823677900cf8"/>
+        <COMPID name="Subir notas" mc="Standard.UseCase" uid="0662f511-f645-4f74-8ed8-7f66eb1db8ea"/>
+        <COMPID name="CRUD secciones" mc="Standard.UseCase" uid="d69b1b0e-e5bb-44c8-81e0-57493f2329f1"/>
+        <COMPID name="CRUD perfiles" mc="Standard.UseCase" uid="c9022394-15db-41e8-b64a-f319e51ca596"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Realizaciones de casos de uso Use Case diagram" mc="Standard.UseCaseDiagram" uid="d325ac59-8f3b-490d-b151-e30ac0982bf6"/>

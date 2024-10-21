@@ -7,6 +7,10 @@
       <ATT name="Name"><![CDATA[LocalProfile]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="Use Case Realization" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Case Realization" version="4">
+  <OBJECT>
+    <ID name="Use Case Realization" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="b6da8b24-5b00-4743-89e7-95c53ad1ce82"/>
+    <ATTRIBUTES>
+      <ATT name="Image"><![CDATA[uml_oval_icon_48x48_punteado_ensanchado.png]]></ATT>
+      <ATT name="Icon"></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[Use Case Realization]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.UseCase]]></ATT>
+      <ATT name="Name"><![CDATA[Use Case Realization]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
