@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Realizaciones de CUS" version="4">
+  <OBJECT>
+    <ID name="Realizaciones de CUS" mc="Standard.Package" uid="0baad6d5-4a67-4bc0-b2c7-097aee0abe3d"/>
+    <PID name="Modelo de análisis" mc="Standard.Package" uid="51d5620a-ef04-4bcd-a798-7d4b63e3488d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Realizaciones de CUS]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Clases control" mc="Standard.Package" uid="e6353f3a-76b9-479a-965a-16f92ef47e4c"/>
+        <COMPID name="Clases interfaz" mc="Standard.Package" uid="09398c37-e3fa-4f11-aaee-6df1d151559b"/>
+        <COMPID name="Clases entidad" mc="Standard.Package" uid="8fd598d1-ad2f-4048-9d47-f32bc882b996"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de analisis de casos de uso" mc="Standard.UseCaseDiagram" uid="3d934665-138b-4129-b435-ab0881d4f71c"/>
+        <COMPID name="Subir asistencia" mc="Standard.ClassDiagram" uid="cd04055c-7a57-469d-8aff-c11499635648"/>
+        <COMPID name="Subir notas" mc="Standard.ClassDiagram" uid="6ac8151c-d3a5-49d9-a1fa-71c0f41b9ea9"/>
+        <COMPID name="CRUD secciones" mc="Standard.ClassDiagram" uid="4916279a-4fc3-46ee-9fc9-48673cf786ca"/>
+        <COMPID name="CRUD perfiles" mc="Standard.ClassDiagram" uid="f84855a4-3734-4b5e-9bd6-51887844318b"/>
+        <COMPID name="Subir material" mc="Standard.ClassDiagram" uid="bb189cbf-baae-4cdf-b7f3-8fe0e156c5bb"/>
+        <COMPID name="Descargar material" mc="Standard.ClassDiagram" uid="e12e9de5-a794-4c62-82c4-fe21688378a6"/>
+        <COMPID name="Consultar información" mc="Standard.ClassDiagram" uid="49671ea2-8b5a-48ac-b8af-91104ff2980d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

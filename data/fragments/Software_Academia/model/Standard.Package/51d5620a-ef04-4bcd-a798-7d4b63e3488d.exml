@@ -12,6 +12,10 @@
       <ATT name="Name"><![CDATA[Modelo de análisis]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
-    <DEPENDENCIES></DEPENDENCIES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Realizaciones de CUS" mc="Standard.Package" uid="0baad6d5-4a67-4bc0-b2c7-097aee0abe3d"/>
+      </COMP>
+    </DEPENDENCIES>
   </OBJECT>
 </EXT>

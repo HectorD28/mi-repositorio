@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CRUD perfiles" version="4">
+  <OBJECT>
+    <ID name="CRUD perfiles" mc="Standard.ClassDiagram" uid="f84855a4-3734-4b5e-9bd6-51887844318b"/>
+    <PID name="Realizaciones de CUS" mc="Standard.Package" uid="0baad6d5-4a67-4bc0-b2c7-097aee0abe3d"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVVFP2zAQ/itW3utSmo5MKkWQoKoio6gdSHtCl/rIDI5d2S40/352kwLN1q4gNF72FPvs7+67u++c/smyEOQRteFKHgcdehCQk0F/nN3jzBLOnCkgtpzjcaB0TgvFUHBFF4WgxoLlD4xDrqGgyLhVmqLAAqU11elsfTospqt9Uu0DUsC90rfPcQ+CQf9KqzlqWxIJhQsnoFQLm4AFd3YDYoE1D7kQImgP+u014Dfo1JYCg40sDv+UxZqd8fcNnSmNtMLuwS8GMwOGbB3sfGkneLdnlEvnokYSXNokGzmOq6VfxCoDYRs5tqtsduWtUYBF5mg0SvbNm8ijt/jqgGSgGY0FGFN3hNxFYdTrQdjqHnXDVpj1sPU1Y19avU4UHUVh2O1E2e6qO2/2QqonmUKGosFgajWXuTO2V9adWSiBIxmrYq4Mt67873cV/+SCafQeUm587erPVkTK5YPZ//pZnmh4cnRSKFFvSq67S3LPc8IqvKHCe3CDsuHw38zJ21CfqzLOtsghGdL09Mf55PbsNL4YTsbXl8nHKGSPwXvdsxf1vNJC+F8Ln6KF7+OrjxbB356Exq+O1v1qMB1Ji7lval2izpbX/hfr36Vl]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[CRUD perfiles]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="Use Case Analisis" mc="Infrastructure.Stereotype" uid="9e0b82a9-a6b4-43d8-b0c4-40948de756d7"/>
+      </LINK>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="598df354-f9e4-47c7-a734-261d219b1668"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="CRUD perfiles" mc="Standard.UseCase" uid="39e95f4e-86c6-4ff8-bba6-1f0897568aca"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="8c0e1060-0e2a-4f05-b91d-fc01adfd0007"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

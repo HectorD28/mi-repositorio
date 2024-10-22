@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class" version="4">
+  <OBJECT>
+    <ID name="Class" mc="Standard.Class" uid="8afffeb6-5694-4ec7-aeb2-547691fb553c"/>
+    <PID name="Clases interfaz" mc="Standard.Package" uid="09398c37-e3fa-4f11-aaee-6df1d151559b"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Class]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="Interfaz" mc="Infrastructure.Stereotype" uid="ced1ce00-bbe9-40e7-a9ca-9aaa41b0e236"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

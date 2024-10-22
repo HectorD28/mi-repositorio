@@ -9,7 +9,11 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="DefinedStereotype">
-        <COMPID name="Use Case Realization" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
+        <COMPID name="Use Case Design" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
+        <COMPID name="Use Case Analisis" mc="Infrastructure.Stereotype" uid="9e0b82a9-a6b4-43d8-b0c4-40948de756d7"/>
+        <COMPID name="Control" mc="Infrastructure.Stereotype" uid="22aa841d-e208-4877-813a-a7cd7663a937"/>
+        <COMPID name="Interfaz" mc="Infrastructure.Stereotype" uid="ced1ce00-bbe9-40e7-a9ca-9aaa41b0e236"/>
+        <COMPID name="Entidad" mc="Infrastructure.Stereotype" uid="6386bbf1-d526-4d52-bf03-5040c04279b1"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>

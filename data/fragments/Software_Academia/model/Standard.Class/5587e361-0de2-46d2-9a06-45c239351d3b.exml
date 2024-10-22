@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class1" version="4">
+  <OBJECT>
+    <ID name="Class1" mc="Standard.Class" uid="5587e361-0de2-46d2-9a06-45c239351d3b"/>
+    <PID name="Clases entidad" mc="Standard.Package" uid="8fd598d1-ad2f-4048-9d47-f32bc882b996"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Class1]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="Entidad" mc="Infrastructure.Stereotype" uid="6386bbf1-d526-4d52-bf03-5040c04279b1"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

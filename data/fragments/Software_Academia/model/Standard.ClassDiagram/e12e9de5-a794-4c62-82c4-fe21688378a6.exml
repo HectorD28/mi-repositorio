@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Descargar material" version="4">
+  <OBJECT>
+    <ID name="Descargar material" mc="Standard.ClassDiagram" uid="e12e9de5-a794-4c62-82c4-fe21688378a6"/>
+    <PID name="Realizaciones de CUS" mc="Standard.Package" uid="0baad6d5-4a67-4bc0-b2c7-097aee0abe3d"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">1</ATT>
+      <ATT name="UiData"><![CDATA[eJztVVFP2zAQ/itR3uvS0JUihSJIUFWRUdRuk/aErvGRGRy7sq/Q/HucJmU0W7tMQuNlT7HPvu++u/vOCc/XufSe0Fih1ZnfY0e+dz4Kp4sHTMkT3Jl8j4olnvnaZCzXHKXQbJVLZglIPHIBmYGcIRekDUOJOSqy1Wm6PR3n880+rva+l8ODNnevcY/8UXhr9BINFZ6C3IWTUOgVxUDgzr6BXGHNQ62k9LujsLt1+MV1ToVEfyeL4HdZbNnZ8r5lqTbIKt8W/CKwKXDk22BXa5rhfcsoNw6i9vRwTfFi4jhuluUi0guQ1MixW2VzKG+DEgi5o9Eo2efS5D2VlrI6oDgYziIJ1tYd8bAX4CnHTx04Oe13+ukg6AyDtN+5x6A3GA6PT4YwOFx1h0bXSj+rBBYoGwzmZITK/FGMrmomA+MqTGgEyLC7uXcwLy1xoiKdL7UV5BqyB7wFVPRDSG6wREiELatZf/Z6JEI92vbXL7PYwLOjk0CBZleEx4dE+Do5vPK3TJYIbnR2AP/N5Pyd18fqTvB9Whuz5OL71ezu8iK6Hs+mX2/i91FIi1F827Of6nmjhf5/LXyIFr5Mb99bBH96Eho/P1b3q8F0ogizsql1iXp73v8XDpCuBA==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="JsStructure"></ATT>
+      <ATT name="Name"><![CDATA[Descargar material]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="Use Case Analisis" mc="Infrastructure.Stereotype" uid="9e0b82a9-a6b4-43d8-b0c4-40948de756d7"/>
+      </LINK>
+      <COMP relation="DependsOnDependency">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Dependency" uid="30135508-8cbf-4bb8-891f-f7706c36f6d5"/>
+          <ATTRIBUTES>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="DependsOn">
+              <ID name="Descargar material" mc="Standard.UseCase" uid="14b39579-3af2-4229-8028-d6babfd799ee"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="d6da031b-018d-46ff-83a5-413ccfd921b2"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
