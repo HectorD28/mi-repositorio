@@ -19,6 +19,10 @@
       <COMP relation="OwnedElement">
         <COMPID name="Use Case" mc="Standard.UseCase" uid="a31b4d1d-8c4b-4c15-b6b0-06fc5d0495a4"/>
         <COMPID name="Subir material" mc="Standard.UseCase" uid="9e9eda44-1ccc-4829-8969-1c7d0257e726"/>
+        <COMPID name="Crear Secciones" mc="Standard.UseCase" uid="f75cb104-c2b9-47b5-8978-c6449f56319e"/>
+        <COMPID name="Read Secciones" mc="Standard.UseCase" uid="500d4fb2-b48f-4ec0-92cf-2fb8790fc5ae"/>
+        <COMPID name="Update Secciones" mc="Standard.UseCase" uid="4b45129b-5ddd-4afc-959d-037710b07123"/>
+        <COMPID name="Delete Secciones" mc="Standard.UseCase" uid="3675441a-44f6-4bdd-a25a-6c39f7d69957"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Realizaciones de casos de uso Use Case diagram" mc="Standard.UseCaseDiagram" uid="d325ac59-8f3b-490d-b151-e30ac0982bf6"/>
