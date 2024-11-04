@@ -14,7 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <LINK relation="Extension">
-        <ID name="Use Case Realization" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
+        <ID name="Use Case Design" mc="Infrastructure.Stereotype" uid="ea759ac7-4441-4f0f-ba27-49761c7cb086"/>
       </LINK>
       <COMP relation="DependsOnDependency">
         <OBJECT>
