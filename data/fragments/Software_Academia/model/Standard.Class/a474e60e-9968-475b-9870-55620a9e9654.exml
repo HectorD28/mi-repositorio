@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class1" version="4">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Material" version="4">
   <OBJECT>
-    <ID name="Class1" mc="Standard.Class" uid="5587e361-0de2-46d2-9a06-45c239351d3b"/>
+    <ID name="Material" mc="Standard.Class" uid="a474e60e-9968-475b-9870-55620a9e9654"/>
     <PID name="Clases entidad" mc="Standard.Package" uid="8fd598d1-ad2f-4048-9d47-f32bc882b996"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -11,10 +11,15 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[Class1]]></ATT>
+      <ATT name="Name"><![CDATA[Material]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
+      <COMP relation="OwnedEnd">
+        <REFOBJ>
+          <ID name="" mc="Standard.AssociationEnd" uid="97d73818-8b27-47ad-93fa-bcb28b473b69"/>
+        </REFOBJ>
+      </COMP>
       <LINK relation="Extension">
         <ID name="Entidad" mc="Infrastructure.Stereotype" uid="6386bbf1-d526-4d52-bf03-5040c04279b1"/>
       </LINK>

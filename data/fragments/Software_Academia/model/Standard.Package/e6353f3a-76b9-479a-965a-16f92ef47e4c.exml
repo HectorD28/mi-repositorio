@@ -14,7 +14,7 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="Class" mc="Standard.Class" uid="72c85cb9-6e95-423c-a21c-4d453566d698"/>
+        <COMPID name="Gestor de materiales" mc="Standard.Class" uid="5732df5e-5a29-4c38-8e40-c6a57f2fd427"/>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
