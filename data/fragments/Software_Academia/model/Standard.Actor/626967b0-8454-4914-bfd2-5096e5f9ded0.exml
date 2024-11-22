@@ -14,8 +14,9 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedEnd">
+        <FOREIGNID name="" mc="Standard.AssociationEnd" uid="9f4ba870-7cab-4b60-93e2-778f99fbb139"/>
         <OBJECT>
-          <ID name="" mc="Standard.AssociationEnd" uid="8055cd2e-9b88-4b76-8fb8-523b6042aa66"/>
+          <ID name="" mc="Standard.AssociationEnd" uid="bafdc2e8-d1d4-4e9f-a51d-73fe2b36d8bd"/>
           <ATTRIBUTES>
             <ATT name="Aggregation">KindIsAssociation</ATT>
             <ATT name="IsChangeable">true</ATT>
@@ -33,11 +34,11 @@
           </ATTRIBUTES>
           <DEPENDENCIES>
             <LINK relation="Target">
-              <ID name="Subir material" mc="Standard.UseCase" uid="75b9309c-e4c4-4d8a-a9d4-54c42d19b4db"/>
+              <ID name="Subir asistencia" mc="Standard.UseCase" uid="d1c1d5d7-7089-4379-b3aa-e7898e5524f4"/>
             </LINK>
             <COMP relation="Opposite">
               <OBJECT>
-                <ID name="" mc="Standard.AssociationEnd" uid="004b42ba-b8d5-400f-af1e-639bdc5add5d"/>
+                <ID name="" mc="Standard.AssociationEnd" uid="b774011d-756b-42cf-86c8-5f4a94147e96"/>
                 <ATTRIBUTES>
                   <ATT name="Aggregation">KindIsAssociation</ATT>
                   <ATT name="IsChangeable">true</ATT>
@@ -55,11 +56,11 @@
                 </ATTRIBUTES>
                 <DEPENDENCIES>
                   <COMP relation="Opposite">
-                    <COMPID name="" mc="Standard.AssociationEnd" uid="8055cd2e-9b88-4b76-8fb8-523b6042aa66"/>
+                    <COMPID name="" mc="Standard.AssociationEnd" uid="bafdc2e8-d1d4-4e9f-a51d-73fe2b36d8bd"/>
                   </COMP>
                   <COMP relation="Association">
                     <OBJECT>
-                      <ID name="" mc="Standard.Association" uid="7eb1a630-2edd-407a-b7d5-747a24e30400"/>
+                      <ID name="" mc="Standard.Association" uid="b7038e8a-0ac0-4443-aa13-76e1c297bc3c"/>
                       <ATTRIBUTES>
                         <ATT name="Name"></ATT>
                         <ATT name="status">1970354901745664</ATT>
@@ -71,13 +72,10 @@
               </OBJECT>
             </COMP>
             <COMP relation="Association">
-              <COMPID name="" mc="Standard.Association" uid="7eb1a630-2edd-407a-b7d5-747a24e30400"/>
+              <COMPID name="" mc="Standard.Association" uid="b7038e8a-0ac0-4443-aa13-76e1c297bc3c"/>
             </COMP>
           </DEPENDENCIES>
         </OBJECT>
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="9f4ba870-7cab-4b60-93e2-778f99fbb139"/>
-        </REFOBJ>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
