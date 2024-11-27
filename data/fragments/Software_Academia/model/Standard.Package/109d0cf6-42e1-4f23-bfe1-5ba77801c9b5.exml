@@ -27,6 +27,8 @@
         <COMPID name="Usuario" mc="Standard.Class" uid="35b92993-4a7e-4e36-9478-a220e27f9b53"/>
         <COMPID name="Secciones" mc="Standard.Class" uid="5e8f5e9f-9163-4a3f-9379-0719e6a308ea"/>
         <COMPID name="Coordinador" mc="Standard.Class" uid="f52e7d6a-1d45-43fd-90ea-4d9565fde0af"/>
+        <COMPID name="Conexión" mc="Standard.Class" uid="40f78171-2d31-4fb7-a84c-e627c61c1bcb"/>
+        <COMPID name="EstablecerConexión" mc="Standard.Class" uid="22951032-73d0-44d4-8e89-b9f68e52d277"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Diagrama de clases de diseño" mc="Standard.ClassDiagram" uid="ee3dd9ee-1ad6-49ba-953c-7cd2366f9e9a"/>

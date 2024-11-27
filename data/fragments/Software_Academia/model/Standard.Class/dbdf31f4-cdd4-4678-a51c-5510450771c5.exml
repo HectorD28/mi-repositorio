@@ -232,9 +232,6 @@
             </COMP>
           </DEPENDENCIES>
         </OBJECT>
-        <REFOBJ>
-          <ID name="" mc="Standard.AssociationEnd" uid="e051e297-4421-4525-b4aa-7cd2afa03ef0"/>
-        </REFOBJ>
       </COMP>
     </DEPENDENCIES>
   </OBJECT>
