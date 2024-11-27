@@ -28,7 +28,6 @@
         <COMPID name="Sección " mc="Standard.Class" uid="5e8f5e9f-9163-4a3f-9379-0719e6a308ea"/>
         <COMPID name="ListaEstudiantes" mc="Standard.Class" uid="4f848459-c8b1-4b95-95bd-88228c70063e"/>
         <COMPID name="Coordinador" mc="Standard.Class" uid="f52e7d6a-1d45-43fd-90ea-4d9565fde0af"/>
-        <COMPID name="Gestor_Material" mc="Standard.Class" uid="243f892a-2f26-4e28-a8bd-552d2aef90ce"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="Diagrama de clases de diseño" mc="Standard.ClassDiagram" uid="ee3dd9ee-1ad6-49ba-953c-7cd2366f9e9a"/>
