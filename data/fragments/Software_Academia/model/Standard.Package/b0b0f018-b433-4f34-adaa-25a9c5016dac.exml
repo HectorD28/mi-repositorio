@@ -13,9 +13,6 @@
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES>
-      <COMP relation="OwnedBehavior">
-        <COMPID name="Interaction" mc="Standard.Interaction" uid="8006e07a-df89-4e5d-8b0d-e6d298241a7f"/>
-      </COMP>
       <COMP relation="OwnedElement">
         <COMPID name="Subir material" mc="Standard.UseCase" uid="9e9eda44-1ccc-4829-8969-1c7d0257e726"/>
         <COMPID name="Descargar material" mc="Standard.UseCase" uid="a7c83cbc-4f8c-4362-b174-780bcda698cf"/>
