@@ -18,15 +18,14 @@
         <COMPID name="Administrador" mc="Standard.Class" uid="71544212-93b3-425d-b4a5-1c863d90a529"/>
         <COMPID name="ListaAsistencia" mc="Standard.Class" uid="580e5de3-ebc7-4368-a530-8523048ba219"/>
         <COMPID name="Material" mc="Standard.Class" uid="cae1404a-e027-4315-a9d9-303d3a4e7e03"/>
-        <COMPID name="ListaPuntaje" mc="Standard.Class" uid="a444342f-11d8-428b-a289-2d9411c38efd"/>
+        <COMPID name="ListaNotas" mc="Standard.Class" uid="a444342f-11d8-428b-a289-2d9411c38efd"/>
         <COMPID name="Gestor_Datos" mc="Standard.Class" uid="8efea1d1-c677-44d3-b5fb-fa5c5fb973f0"/>
         <COMPID name="Asistencia" mc="Standard.Class" uid="dbdf31f4-cdd4-4678-a51c-5510450771c5"/>
-        <COMPID name="Evaluación" mc="Standard.Class" uid="b089d133-ac0d-4b5c-9f21-65e2a461cd76"/>
+        <COMPID name="Nota" mc="Standard.Class" uid="b089d133-ac0d-4b5c-9f21-65e2a461cd76"/>
         <COMPID name="Formulario_Material" mc="Standard.Class" uid="544a8892-cc33-4a2f-9530-dc79d9ef1df5"/>
         <COMPID name="Profesor" mc="Standard.Class" uid="4588d6ac-cfb6-4632-ba2c-52c2f64f53f3"/>
         <COMPID name="Usuario" mc="Standard.Class" uid="35b92993-4a7e-4e36-9478-a220e27f9b53"/>
-        <COMPID name="Sección " mc="Standard.Class" uid="5e8f5e9f-9163-4a3f-9379-0719e6a308ea"/>
-        <COMPID name="ListaEstudiantes" mc="Standard.Class" uid="4f848459-c8b1-4b95-95bd-88228c70063e"/>
+        <COMPID name="Secciones" mc="Standard.Class" uid="5e8f5e9f-9163-4a3f-9379-0719e6a308ea"/>
         <COMPID name="Coordinador" mc="Standard.Class" uid="f52e7d6a-1d45-43fd-90ea-4d9565fde0af"/>
       </COMP>
       <COMP relation="Product">
